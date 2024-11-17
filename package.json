@@ -1,0 +1,24 @@
+{
+  "name": "simulador_mario_kart",
+  "version": "1.0.0",
+  "description": "Simulador de corridas do Mário Kart",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemilc/simulador_mario_kart.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "BackEnd"
+  ],
+  "author": "Systemilc - DIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/systemilc/simulador_mario_kart/issues"
+  },
+  "homepage": "https://github.com/systemilc/simulador_mario_kart#readme"
+}
