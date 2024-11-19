@@ -1,4 +1,7 @@
 <h1>Desafio de projeto: Mario Kart.JS</h1>
+ <p>Projeto desenvolvido acompanhando as aulas da DIO com instrutor Felipão: Formação Node.js Fundamentals</p>
+ <p>Realizei algumas melhorias ao código para finalização e entrega final</p>
+     <a href="https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart" target="_blank">Acessar o repositório do Projeto Mario Kart</a>
 
   <table>
         <tr>
