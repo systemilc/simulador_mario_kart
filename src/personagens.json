@@ -1,0 +1,53 @@
+{
+    "characters": [
+      {
+        "nome": "Mario",
+        "atributos": {
+          "velocidade": 4,
+          "manobrabilidade": 3,
+          "poder": 3
+        }
+      },
+      {
+        "nome": "Peach",
+        "atributos": {
+          "velocidade": 3,
+          "manobrabilidade": 4,
+          "poder": 2
+        }
+      },
+      {
+        "nome": "Yoshi",
+        "atributos": {
+          "velocidade": 2,
+          "manobrabilidade": 4,
+          "poder": 3
+        }
+      },
+      {
+        "nome": "Bowser",
+        "atributos": {
+          "velocidade": 5,
+          "manobrabilidade": 2,
+          "poder": 5
+        }
+      },
+      {
+        "nome": "Luigi",
+        "atributos": {
+          "velocidade": 3,
+          "manobrabilidade": 4,
+          "poder": 4
+        }
+      },
+      {
+        "nome": "Donkey Kong",
+        "atributos": {
+          "velocidade": 2,
+          "manobrabilidade": 2,
+          "poder": 5
+        }
+      }
+    ]
+  }
+  
